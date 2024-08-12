@@ -1,0 +1,1 @@
+print("File added for resolving conflicts in GIT.")
